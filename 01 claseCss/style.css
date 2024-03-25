@@ -1,0 +1,14 @@
+/* Selector */
+p{
+    color: blue;
+}
+
+/* Clase */
+.parrafo{
+    color: red;
+}
+
+/* Id */
+#parrafo{
+    color: greenyellow;
+}
